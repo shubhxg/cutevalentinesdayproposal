@@ -198,8 +198,7 @@ button {
     font-size: 1em;
   }
 
-  .heart {
-    width: 15px;
-    height: 15px;
+  footer {
+    font-size: 0.8rem;
   }
 }
